@@ -1,4 +1,4 @@
 # are-iss-McGVR
 (Vibration Canceling)
 
-The microgravity vibration reduction project from Minnehaha's ISS class
+This is the microgravity vibration reduction project (affectionately known as McGVR) from Minnehaha's ISS class
